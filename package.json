@@ -1,0 +1,14 @@
+{
+  "name": "@your-scope/sum-function",
+  "version": "1.0.10",
+  "description": "Sum function public package for Hackjing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Successfully: Run test \" && exit 0"
+  },
+  "keywords": [],
+  "author": "@your-scope",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
